@@ -3,7 +3,7 @@
 <h3 style="color: #333;">👨‍💻 About Me</h3>
 <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin: 5px 0;"><strong>Software Development:</strong> Proficient in web development, creating dynamic and responsive applications.</li>
-    <li style="margin: 5px 0;"><strong>Database Management:</strong> Experienced in both relational (MySQL) and non-relational (MongoDB) databases.</li>
+    <li style="margin: 5px 0;"><strong>Database Management:</strong> Experienced in both relational and non-relational databases.</li>
     <li style="margin: 5px 0;"><strong>System Design:</strong> Skilled in designing scalable and efficient software architectures.</li>
     <li style="margin: 5px 0;"><strong>Leadership:</strong> Developed strong team leadership skills from experience in production supervision.</li>
     <li style="margin: 5px 0;"><strong>Process Optimization:</strong> Expertise in optimizing workflows and resource management for better efficiency.</li>
